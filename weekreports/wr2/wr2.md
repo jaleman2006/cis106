@@ -4,7 +4,7 @@
 
 ## Lab Link:
 
-* [Lab 2](../../lab2/lab2.md)
+* [Lab 2](../../labs/lab2/lab2.md)
 
 <hr>
 
