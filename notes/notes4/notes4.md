@@ -54,7 +54,7 @@ Defintions of the following terms:
 
 <hr>
 
-# **YOUR HOME** directory VS. **THE HOME** directory
+## **YOUR HOME** directory VS. **THE HOME** directory
 * ### Definition (USER HOME DIRECTORY): 
   * This is your user’s personal directory where all your files are located.
 * ### Usage:
@@ -120,7 +120,7 @@ Defintions of the following terms:
 
 <hr>
 
-# environment variables
+## environment variables
 * ### Definition:
   * Store values of a user’s environment and can be used in commands in the shell
 * ### Usage:
@@ -135,7 +135,7 @@ Defintions of the following terms:
 
 <hr>
 
-# user defined variables
+## user defined variables
 * ### Definition:
   * Variables that a user creates within a shell script to store and manipulate values
 * ### Usage:
@@ -154,7 +154,7 @@ Defintions of the following terms:
 
 <hr>
 
-# Why do we need to use $ with variables when bash shell scripting?
+## Why do we need to use $ with variables when bash shell scripting?
 * ### Usage:
   * When you want to use the value of a variable, you need to precede the variable name with `$`. 
   * Without the `$`, the shell will interpret the variable name as a literal string rather than a reference to the variable.
